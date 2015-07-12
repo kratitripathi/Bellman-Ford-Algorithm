@@ -1,7 +1,7 @@
 # Bellman-Ford-Algorithm
 Data Structures and Algorithms Project on Bellman Ford Algorithm
 
-**Bellman-ford Algorithm:**
+**Bellman-Ford Algorithm:**
 
 **Input:** Graph and a source vertex  
 **Output:** Shortest distance to all vertices from source. If there is a negative weight cycle, then shortest distances are not calculated, negative weight cycle is reported.  
